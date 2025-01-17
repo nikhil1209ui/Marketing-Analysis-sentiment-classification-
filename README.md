@@ -23,10 +23,11 @@ This project involves analyzing Shopsy’s marketing data to address challenges 
 ### Data Acquisition: 
 - Restored database from a .bak file into SQL Server.
 ### Data Preprocessing:
-[SQL Queries]()
+[SQL Queries](https://github.com/nikhil1209ui/Marketing-Analysis-sentiment-classification-/tree/main/SQL_Queries)
 - Filtered and cleaned data using SQL queries.
 - Exported preprocessed data for further analysis.
 ### Sentiment Analysis:
+[.py]()
 - Used NLTK and SentimentIntensityAnalyzer to analyze customer reviews.
 - Classified reviews into buckets (positive, neutral, negative).
 ### Reporting:
