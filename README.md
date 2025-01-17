@@ -77,6 +77,20 @@ This project involves analyzing Shopsy’s marketing data to address challenges 
 
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/4f4c83a8-83fa-4a11-85a2-60f6bc7aab5a" />
 
+## Actions and Improvements 
+1. Increase Conversion Rates:
+- Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. 
+  Implement seasonal promotions or personalized campaigns during peak months (e.g., January and September) to capitalize on these trends.
+
+2. Enhance Customer Engagement:
+- Revitalize Content Strategy: To turn around declining views and low interaction rates, experiment with more engaging content formats, such as interactive videos or user- 
+  generated content. Additionally, boost engagement by optimizing call-to-action placement in social media and blog content, particularly during historically lower- 
+  engagement months (September-December).
+
+3. Improve Customer Feedback Scores:
+- Address Mixed and Negative Feedback: Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to 
+  address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 
+  target.
 ## Technologies Used
 - SQL Server: Data restoration and preprocessing.
 - Python: Sentiment analysis and data classification.
