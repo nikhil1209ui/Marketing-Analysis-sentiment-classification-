@@ -27,12 +27,13 @@ This project involves analyzing Shopsy’s marketing data to address challenges 
 - Filtered and cleaned data using SQL queries.
 - Exported preprocessed data for further analysis.
 ### Sentiment Analysis:
-[.py]()
+[.py](https://github.com/nikhil1209ui/Marketing-Analysis-sentiment-classification-/blob/main/Sentiment_Classifier.py)
 - Used NLTK and SentimentIntensityAnalyzer to analyze customer reviews.
 - Classified reviews into buckets (positive, neutral, negative).
 ### Reporting:
 - Exported insights to a .csv file and used Power BI to create interactive dashboards.
 ### Dashboard Creation:
+[Dashboard]()
 - Built reports with separate insights for:
 - Conversion Funnel Analysis
 - Customer Engagement Trends
