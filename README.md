@@ -33,8 +33,35 @@ This project involves analyzing Shopsy’s marketing data to address challenges 
 ### Reporting:
 - Exported insights to a .csv file and used Power BI to create interactive dashboards.
 ### Dashboard Creation:
-[Dashboard]()
+[Dashboard](https://github.com/nikhil1209ui/Marketing-Analysis-sentiment-classification-/tree/main/Dashboard%20%26%20DAX)
 - Built reports with separate insights for:
-- Conversion Funnel Analysis
-- Customer Engagement Trends
-- Customer Sentiment Breakdown
+#### Summary
+
+<img width="500" alt="Overview_PBI" src="https://github.com/user-attachments/assets/0e88f88d-23c7-4de1-b163-e60060d16033" />                                   
+
+#### Conversion Funnel Analysis
+
+<img width="500" alt="Conversion-PBI" src="https://github.com/user-attachments/assets/c3879d0c-1d7e-4a23-87be-efcbf45b3b13" />
+
+#### Customer Engagement Trends
+
+<img width="500" alt="Social_media_PBI" src="https://github.com/user-attachments/assets/29c19b6a-5f1b-4175-a8b3-c4393ede2bf9" />
+
+#### Customer Sentiment Breakdown
+
+<img width="500" alt="Customer_Review_PBI" src="https://github.com/user-attachments/assets/2ce616b2-6992-4b35-9900-8602862fb92c" />
+
+## Key Visual Insights
+
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/ec937893-298e-4dc6-b21f-a20673986c94" />
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/b725334c-7605-4678-833c-9ea4b6d9b46f" />
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/1587cfee-a406-452a-bfc4-8dfa7dad7cae" />
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/f823ec71-6255-43cb-a071-33624cb598f1" />
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/56c0e1e9-d098-4fc7-b385-3845bbff89ac" />
+
+
+
+
+
+
+
