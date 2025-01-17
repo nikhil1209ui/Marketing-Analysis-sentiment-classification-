@@ -1,7 +1,8 @@
 # Shopsy Marketing Analysis
 ## Overview
 This project involves analyzing Shopsy’s marketing data to address challenges faced by a small business selling sports goods. The primary goal is to improve customer engagement, conversion rates, and overall feedback scores.
-## Business Challenges
+## Business Challenges 
+[Business Case](https://github.com/nikhil1209ui/Marketing-Analysis-sentiment-classification-/blob/main/Business%20Case.pptx)
 - Reduced Customer Engagement: Decline in interactions with the website and marketing content.
 - Decreased Conversion Rates: Fewer site visitors are turning into paying customers.
 - High Marketing Expenses: Investments in marketing campaigns are not yielding expected returns.
@@ -22,6 +23,7 @@ This project involves analyzing Shopsy’s marketing data to address challenges 
 ### Data Acquisition: 
 - Restored database from a .bak file into SQL Server.
 ### Data Preprocessing:
+[SQL Queries]()
 - Filtered and cleaned data using SQL queries.
 - Exported preprocessed data for further analysis.
 ### Sentiment Analysis:
