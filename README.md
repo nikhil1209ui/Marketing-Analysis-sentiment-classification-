@@ -52,12 +52,37 @@ This project involves analyzing Shopsy’s marketing data to address challenges 
 <img width="500" alt="Customer_Review_PBI" src="https://github.com/user-attachments/assets/2ce616b2-6992-4b35-9900-8602862fb92c" />
 
 ## Key Visual Insights
+[Presentation](https://github.com/nikhil1209ui/Marketing-Analysis-sentiment-classification-/blob/main/Presentation.pptx)
+#### Front
 
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/ec937893-298e-4dc6-b21f-a20673986c94" />
+
+### Overview
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/b725334c-7605-4678-833c-9ea4b6d9b46f" />
+
+#### Decreased Conversion Rates
+
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/1587cfee-a406-452a-bfc4-8dfa7dad7cae" />
+
+#### Reduced Customer Engagement
+
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/f823ec71-6255-43cb-a071-33624cb598f1" />
+
+#### Customer Feedback Analysis
+
+
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/56c0e1e9-d098-4fc7-b385-3845bbff89ac" />
+
+#### Conclusion
+
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/4f4c83a8-83fa-4a11-85a2-60f6bc7aab5a" />
+
+## Technologies Used
+- SQL Server: Data restoration and preprocessing.
+- Python: Sentiment analysis and data classification.
+- Libraries: nltk, vaderSentiment, pandas.
+- Power BI: Dashboard creation for actionable insights.
+
 
 
 
