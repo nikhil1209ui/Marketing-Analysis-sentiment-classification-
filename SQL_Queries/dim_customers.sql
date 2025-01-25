@@ -11,9 +11,6 @@ SELECT
 FROM 
     dbo.customers as c  -- Specifies the alias 'c' for the dim_customers table
 LEFT JOIN
--- RIGHT JOIN
--- INNER JOIN
--- FULL OUTER JOIN
     dbo.geography g  -- Specifies the alias 'g' for the dim_geography table
 ON 
     c.GeographyID = g.GeographyID; 
