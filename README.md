@@ -26,6 +26,8 @@ This project involves analyzing Shopsy’s marketing data to address challenges 
 [SQL Queries](https://github.com/nikhil1209ui/Marketing-Analysis-sentiment-classification-/tree/main/SQL_Queries)
 - Filtered and cleaned data using SQL queries.
 - Exported preprocessed data for further analysis.
+  
+`These sql queries will also be used during fetching table from sql to powerBI for transformation of tables (navigation->advance query)`
 ### Sentiment Analysis:
 [.py](https://github.com/nikhil1209ui/Marketing-Analysis-sentiment-classification-/blob/main/Sentiment_Classifier.py)
 - Used NLTK and SentimentIntensityAnalyzer to analyze customer reviews.
